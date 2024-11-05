@@ -1,0 +1,16 @@
+{
+    "name": "At.Ac.FhStp.ApplyMaterialAll",
+    "rootNamespace": "At.Ac.FhStp.ApplyMaterialAll",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
