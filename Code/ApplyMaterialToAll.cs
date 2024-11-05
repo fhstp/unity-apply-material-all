@@ -22,10 +22,14 @@ namespace At.Ac.FhStp.ApplyMaterialAll
         private static void OnHierarchyGUI(int instanceID, Rect selectionRect)
         {
             var currentEvent = Event.current;
-
+            
             // Must hold alt
             if (!currentEvent.alt) return;
 
+            // Must be hovering selection rect
+            if (!selectionRect.Contains(currentEvent.mousePosition)) return;
+            
+            
             // Must only drag single material
             if (TryGetDraggedMaterial() is not { } material) return;
 
