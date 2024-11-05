@@ -2,6 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Unity-2020.1-blue)
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![openupm](https://img.shields.io/npm/v/at.ac.fhstp.apply-material-all?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/at.ac.fhstp.apply-material-all/)
 
 A Unity editor utility for applying a material to all GameObjects in a hierarchy
 
