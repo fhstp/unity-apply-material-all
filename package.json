@@ -1,6 +1,6 @@
 {
   "name": "at.ac.fhstp.apply-material-all",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Unity editor utility for applying a material to all GameObjects in a hierarchy",
   "displayName": "ApplyMaterialAll",
   "unity": "2020.1",
