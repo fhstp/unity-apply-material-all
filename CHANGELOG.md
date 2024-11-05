@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/fhstp/unity-apply-material-all/compare/1.0.0...1.0.1) (2024-11-05)
+
+
+### Bug Fixes
+
+* add missing meta files ([15dbcbf](https://github.com/fhstp/unity-apply-material-all/commit/15dbcbf06c0979a374ac0d28062ca009258c7251))
+* bad selection logic ([8cde10d](https://github.com/fhstp/unity-apply-material-all/commit/8cde10d10a62e20ddfdc65723c941df413a0b081))
+
 # 1.0.0 (2024-11-05)
 
 
