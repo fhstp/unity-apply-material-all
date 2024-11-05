@@ -1,0 +1,27 @@
+name: Release
+
+on: 
+  push:
+    branches: main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup node 💻
+        uses: actions/setup-node@v4
+        with: 
+          node-version: 22
+
+      - name: Release 🚀
+        uses: cycjimmy/semantic-release-action@v4
+        with:
+          extra_plugins: |
+            @semantic-release/changelog
+            @semantic-release/git
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
