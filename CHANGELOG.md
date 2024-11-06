@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/fhstp/unity-apply-material-all/compare/1.0.2...1.0.3) (2024-11-06)
+
+
+### Bug Fixes
+
+* add demo gif ([23e5191](https://github.com/fhstp/unity-apply-material-all/commit/23e5191c8d3591b3aec471e09a57537570ec2ba1))
+
 ## [1.0.2](https://github.com/fhstp/unity-apply-material-all/compare/1.0.1...1.0.2) (2024-11-05)
 
 
