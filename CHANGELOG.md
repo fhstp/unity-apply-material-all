@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/fhstp/unity-apply-material-all/compare/1.0.3...1.0.4) (2024-12-10)
+
+
+### Bug Fixes
+
+* docs folder warning ([ea14019](https://github.com/fhstp/unity-apply-material-all/commit/ea14019eb804dc3e17636f0f5ed0df6096470ed2))
+
 ## [1.0.3](https://github.com/fhstp/unity-apply-material-all/compare/1.0.2...1.0.3) (2024-11-06)
 
 
